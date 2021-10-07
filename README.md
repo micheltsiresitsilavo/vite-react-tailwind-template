@@ -54,5 +54,5 @@ npx tailwindcss init
 All this has already happened 🏆, I'm just telling the story. The thing that remains to be done is to
 
 ```bash
-cd vite-react-tailwind-template && yarn dev
+cd vite-react-tailwind-template && yarn && yarn dev
 ```
