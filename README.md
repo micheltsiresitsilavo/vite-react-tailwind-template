@@ -8,7 +8,7 @@ Use Vite + React + Tailwindcss like flash.
 yarn create vite my-app --template react
 ```
 
-## .then, taiwindcss with his friends
+## .then, tailwindcss with his friends
 
 ```bash
 yarn tailwindcss@latest postcss@latest autoprefixer@latest -D
