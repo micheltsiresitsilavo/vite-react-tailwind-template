@@ -1,7 +1,7 @@
 # vite-react-tailwind-template
 Use Vite + React + Tailwindcss like flash.
 
-# once upon a time {octicons/requestedChanges} i tiped in the terminal when i created this template
+# once upon a time i tiped in the terminal when i created this template
 ## First, i installed vite with react  as a template
 
 ```bash
