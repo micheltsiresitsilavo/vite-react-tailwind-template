@@ -11,7 +11,7 @@ yarn create vite my-app --template react
 ## .then, tailwindcss with his friends
 
 ```bash
-yarn tailwindcss@latest postcss@latest autoprefixer@latest -D
+yarn add tailwindcss@latest postcss@latest autoprefixer@latest -D
 ```
 ## .then make config: 
 ### mkdir a postcss.config.js file at the root of your project
